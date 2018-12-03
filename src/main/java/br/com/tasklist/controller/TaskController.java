@@ -1,7 +1,7 @@
-package br.com.supero.tasklist.controller;
+package br.com.tasklist.controller;
 
-import br.com.supero.tasklist.entity.Task;
-import br.com.supero.tasklist.service.TaskService;
+import br.com.tasklist.entity.Task;
+import br.com.tasklist.service.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;

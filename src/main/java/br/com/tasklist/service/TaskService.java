@@ -1,7 +1,7 @@
-package br.com.supero.tasklist.service;
+package br.com.tasklist.service;
 
-import br.com.supero.tasklist.entity.Task;
-import br.com.supero.tasklist.repository.TaskRepository;
+import br.com.tasklist.entity.Task;
+import br.com.tasklist.repository.TaskRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

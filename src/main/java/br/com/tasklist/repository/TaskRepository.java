@@ -1,6 +1,6 @@
-package br.com.supero.tasklist.repository;
+package br.com.tasklist.repository;
 
-import br.com.supero.tasklist.entity.Task;
+import br.com.tasklist.entity.Task;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 

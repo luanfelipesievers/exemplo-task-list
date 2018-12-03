@@ -1,4 +1,4 @@
-package br.com.supero.tasklist.entity;
+package br.com.tasklist.entity;
 
 import lombok.Data;
 
